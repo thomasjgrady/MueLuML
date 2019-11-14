@@ -1,0 +1,11 @@
+*.cmake
+*.csv
+*.swp
+*.mesh
+
+CMakeCache.txt
+Makefile
+
+__pycache__/
+CMakeFiles/
+venv/
